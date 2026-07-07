@@ -1,0 +1,14 @@
+Linux is powerful
+First line statement
+Second line statement
+Third line statement
+Fourth line statement
+Fifth line statement
+Sixth line statement
+Seventh line statement
+Eighth line statement
+Ninth line statement
+Tenth line statement
+Eleventh line statement
+Twelveth line statement
+

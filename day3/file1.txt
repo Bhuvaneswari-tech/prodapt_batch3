@@ -1,0 +1,9 @@
+Linux
+Windows
+Mac
+Ubuntu
+Linux
+Shell Scripting
+Python
+Linux
+SDLC

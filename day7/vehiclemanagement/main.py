@@ -1,8 +1,8 @@
-from car import Car
-from ev import EV
+from vehiclemanagement.car import Car
+from vehiclemanagement.ev import EV
 from polymorphism import Overloading_demo
-from exception import VehicleError
-from report_export import export_vehicle_data
+from vehiclemanagement.exception import VehicleError
+from vehiclemanagement.report_export import export_vehicle_data
 '''
 #create object for the class
 car1 = Car("Toyota", "Camry", 2020)

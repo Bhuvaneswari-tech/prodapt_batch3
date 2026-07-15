@@ -1,5 +1,5 @@
-from car import Car
-from exception import InvalidBatteryCapacityError
+from vehiclemanagement.car import Car
+from vehiclemanagement.exception import InvalidBatteryCapacityError
 class EV(Car):
     def __init__(self, brand, model, year, battery_capacity, owner=None):
         super().__init__(brand, model, year, owner)

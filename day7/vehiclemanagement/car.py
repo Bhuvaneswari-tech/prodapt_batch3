@@ -1,6 +1,6 @@
 #Defina a class
-from exception import OwnerAlreadyExistsError
-from utils import log_action
+from vehiclemanagement.exception import OwnerAlreadyExistsError
+from vehiclemanagement.utils import log_action
 class Car:
     def __init__(self, brand, model, year, owner=None):
         self.brand = brand

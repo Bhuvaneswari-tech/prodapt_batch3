@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1001,
+    "title": "Python Programming Essentials",
+    "author": "John Doe",
+    "available": true
+  },
+  {
+    "id": 1002,
+    "title": "Data Science with Statistics",
+    "author": "Jane Smith",
+    "available": false
+  },
+  {
+    "id": 1003,
+    "title": "Machine Learning Basics",
+    "author": "Alan Turing",
+    "available": true
+  }
+]

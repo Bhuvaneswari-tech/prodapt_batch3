@@ -23,6 +23,22 @@
       "hours": 1,
       "amount": 1200,
       "status": "Confirmed"
+    },
+    {
+      "id": 4,
+      "customer": "Priya",
+      "sport": "Cricket",
+      "hours": 3,
+      "amount": 3600,
+      "status": "Pending"
+    },
+    {
+      "id": 5,
+      "customer": "Rahul",
+      "sport": "Football",
+      "hours": 2,
+      "amount": 2400,
+      "status": "Confirmed"
     }
   ]
 }

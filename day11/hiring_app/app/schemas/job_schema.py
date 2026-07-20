@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 class JobBase(BaseModel):
     title: str
@@ -18,8 +18,9 @@ class JobUpdate(JobBase):
 class JobResponse(JobBase):
     id:int
     
-    class Config:
-        form_attributes = True
+    # class Config:
+    #     form_attributes = True
+    model_config = ConfigDict(form_attributes = True)
 
 '''
 JobBase - Contains the common fields shared by all job schemas.
